@@ -3,10 +3,10 @@ Essa é uma coleção de recurso para criptoanarquistas, agoristas e outros anar
 <div align="center">
 	<img width="500" height="350" src="Media/dont-tread-on-me.png" alt="Awesome">
 	<br>
+	<h1>Awesome-Liberty</h1>
 	<br>
 	<p>
 		<sup>Me siga no Twitter!</sup>
-	<h1>Awesome-Liberty</h1>
 		<br>
 		<a href="https://twitter.com/Pedro64785">
 			<img src="Media/twitter.png" width="80">
