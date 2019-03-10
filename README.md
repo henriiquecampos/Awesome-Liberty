@@ -19,3 +19,13 @@
 	<a href="contributing.md">Guia para contribuir</a>&nbsp;&nbsp;&nbsp;
 	<a href="Leitura/por-onde-comecar-a-estudar-libertarianismo.md">Por onde começar a estudar libertarianismo?</a>&nbsp;&nbsp;&nbsp;
 </p>
+
+Esse repositório foi inspirado nos "Awesome-Alguma-Coisa" que podem ser encontados [aqui pelo GitHub](https://github.com/sindresorhus/awesome). Inclusive, parte do código HTML para a formatação foi tirado de lá.
+
+# Conteúdo
+
+- [Livros}(#Livros)
+	- [Direito](#Direito)
+	- [Ética](#Ética)
+	- [Economia](#Economia)
+- [Traduções](#Traduções)
