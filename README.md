@@ -8,11 +8,10 @@
 	<a href="Leitura/por-onde-comecar-a-estudar-libertarianismo.md">Por onde começar a estudar libertarianismo?</a>&nbsp;&nbsp;&nbsp;
 	<br>
 	<p>
-		<sup>Me siga no Twitter!</sup>
-		<br>
 		<a href="https://twitter.com/Pedro64785">
 			<img src="Media/twitter.png" width="80">
 		</a>
+		<sup>Me siga no Twitter!</sup>
 	</p>
 	<br>
 	<br>
