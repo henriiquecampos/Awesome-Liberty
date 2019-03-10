@@ -9,7 +9,7 @@ Essa é uma coleção de recurso para criptoanarquistas, agoristas e outros anar
 		<sup>Me siga no Twitter!</sup>
 		<br>
 		<a href="https://twitter.com/Pedro64785">
-			<img src="Media/twitter.png" width="160">
+			<img src="Media/twitter.png" width="80">
 		</a>
 	</p>
 	<br>
