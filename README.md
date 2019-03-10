@@ -1,4 +1,3 @@
-# Awesome-Liberty
 Essa é uma coleção de recurso para criptoanarquistas, agoristas e outros anarcocaptalistas. Agradeço qualquer contribuição!
 
 <div align="center">
@@ -7,6 +6,7 @@ Essa é uma coleção de recurso para criptoanarquistas, agoristas e outros anar
 	<br>
 	<p>
 		<sup>Me siga no Twitter!</sup>
+	<h1>Awesome-Liberty</h1>
 		<br>
 		<a href="https://twitter.com/Pedro64785">
 			<img src="Media/twitter.png" width="80">
