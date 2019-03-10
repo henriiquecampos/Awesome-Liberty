@@ -1,7 +1,7 @@
 <div align="center">
 	<img width="500" height="350" src="Media/dont-tread-on-me.png" alt="Awesome">
 	<h1>Awesome-Liberty</h1>
-	<h3>Essa é uma coleção de recurso para criptoanarquistas, agoristas e outros anarcocaptalistas. Agradeço qualquer contribuição!</h3>
+	<h5>Essa é uma coleção de recurso para criptoanarquistas, agoristas e outros anarcocaptalistas. Agradeço qualquer contribuição!</h5>
 	<br>
 	<p>
 		<sup>Me siga no Twitter!</sup>
