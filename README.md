@@ -17,7 +17,7 @@ Essa é uma coleção de recurso para criptoanarquistas, agoristas e outros anar
 </div>
 
 <p align="center">
-	<a href="Leitura/ancap-starter-kit">O que é anarcocaptalismo?</a>&nbsp;&nbsp;&nbsp;
+	<a href="Leitura/ancap-starter-kit.md">O que é anarcocaptalismo?</a>&nbsp;&nbsp;&nbsp;
 	<a href="contributing.md">Guia para contribuir</a>&nbsp;&nbsp;&nbsp;
 	<a href="Leitura/recomendações-de-leitura.md">Por onde começar a estudar libertarianismo?</a>&nbsp;&nbsp;&nbsp;
 </p>
