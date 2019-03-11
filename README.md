@@ -44,8 +44,12 @@ Todo esse conteúdo está sob domínio público pois propriedade intelectual nã
 
 > ### [Iniciativa Libertária por Edilson Lauro](https://www.youtube.com/user/edilsonlauro2)
 >
-> Edison Lauro também apresenta o canal Investimentos Digitais, mais voltado para o público de criptomoedas. Na sua nova empreitada, ele procura explicar os conceitos da liberdade para o público comum, sem grandes citações a livros, teóricos, etc. Um fato peculiar em Edison é que o próprio diz que se tornou libertário após entrar no universo das criptomoedas e observar a harmonia de um sistema livre, sem regulações e descentralizado.
+> Edison Lauro também apresenta o canal [Investimentos Digitais](https://www.youtube.com/channel/UCiKDrOGNMEpAseQnMCPdARw), mais voltado para o público de criptomoedas. Na sua nova empreitada, ele procura explicar os conceitos da liberdade para o público comum, sem grandes citações a livros, teóricos, etc. Um fato peculiar em Edison é que o próprio diz que se tornou libertário após entrar no universo das criptomoedas e observar a harmonia de um sistema livre, sem regulações e descentralizado.
 
 > ### [Alexandre Porto](https://www.youtube.com/user/CanalTal)
 >
 > Esse canal é mais voltado à filosofia e epstemologia (_se não sabe o que é isso, tudo bem, eu também não sei_), com refutações e deduções mais formais. Muito bom para quem já foi introduzido na Ética Libertária e procura entender melhor a teoria. Porto também faz muitos vídeos respondendo a críticas ao anarcocapitalismo e comentando acontecimentos do momento.
+
+> ### [Ancap.su](https://www.youtube.com/channel/UCSyG9ph5BJSmPRyzc_eGC4g)
+> 
+> Ancap.su é um canal de divulgação de conhecimento libertário, quase um FAQ ancap, as principais dúvidas dos iniciantes podem ser tiradas de forma muito didática através desse canal. Até para quem já está a mais tempo, vídeos como ["O que é a ética argumentativa?"](https://www.youtube.com/watch?v=u6jxGd9Up9Y) ou ["Quanto custa uma criança?"](https://www.youtube.com/watch?v=hmr5ontdKAU) são excelentes opções. Além, é claro, de recentemente ter começado a fazer vídeos com um ton mais humorístico, ["Argumentum Ad-tetra-suécia"](https://www.youtube.com/watch?v=e26r4xqJp8g) e ["Argumentum ad-valet-scriptarum"](https://www.youtube.com/watch?v=i-AFpI8Ve5E).
