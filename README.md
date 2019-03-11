@@ -1,7 +1,7 @@
 <div align="center">
 	<img width="500" height="350" src="Media/dont-tread-on-me.png" alt="Awesome">
 	<h1>Awesome-Liberty</h1>
-	<h5>Essa é uma coleção de recurso para criptoanarquistas, agoristas e outros anarcocaptalistas. Agradeço qualquer contribuição!</h5>
+	<h5>Essa é uma coleção de recurso para criptoanarquistas, agoristas e outros anarcocapitalistas. Agradeço qualquer contribuição!</h5>
 	<br>
 	<a href="Leitura/o-que-e-anarcocaptalismo.md">O que é anarcocaptalismo?</a>&nbsp;&nbsp;&nbsp;
 	<a href="contributing.md">Guia para contribuir</a>&nbsp;&nbsp;&nbsp;
