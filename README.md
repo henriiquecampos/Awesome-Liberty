@@ -40,9 +40,12 @@ Todo esse conteúdo está sob domínio público pois propriedade intelectual nã
 
 > ### [Ideias Radicais por Raphael Lima](https://www.youtube.com/channel/UC-NwgkrLPYmzM-xoLr2GX-Q)
 >
-> O Ideias Radicais é o maior canal brasileiro (provavelmente da língua portuguesa) que tem como tema principal o libertarianismo e o anarcocapitalismo. Seu rosto é o ex-mágico Raphael Lima (também conhecido como Hide), porém também conta com a participação nos bastidores de Luiza Arsênio, Luan Sperandio...[Necessita-se saber os demais integrantes]
+> O Ideias Radicais é o maior canal brasileiro (provavelmente da língua portuguesa) que tem como tema principal o libertarianismo e o anarcocapitalismo. Seu rosto é o ex-mágico Raphael Lima (também conhecido como Hide), que tebalha pela liberdade em tempo integral. No Ideias Radicais é possível encontrar tópicos agoristas (mais práticos), comentários políticos e explicações muito didáticas sobre conceitos complicados.
 
 > ### [Iniciativa Libertária por Edilson Lauro](https://www.youtube.com/user/edilsonlauro2)
 >
 > Edison Lauro também apresenta o canal Investimentos Digitais, mais voltado para o público de criptomoedas. Na sua nova empreitada, ele procura explicar os conceitos da liberdade para o público comum, sem grandes citações a livros, teóricos, etc. Um fato peculiar em Edison é que o próprio diz que se tornou libertário após entrar no universo das criptomoedas e observar a harmonia de um sistema livre, sem regulações e descentralizado.
 
+> ### [Alexandre Porto](https://www.youtube.com/user/CanalTal)
+>
+> Esse canal é mais voltado à filosofia e epstemologia (_se não sabe o que é isso, tudo bem, eu também não sei_), com refutações e deduções mais formais. Muito bom para quem já foi introduzido na Ética Libertária e procura entender melhor a teoria. Porto também faz muitos vídeos respondendo a críticas ao anarcocapitalismo e comentando acontecimentos do momento.
