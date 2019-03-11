@@ -29,5 +29,6 @@ Esse repositório foi inspirado nos "Awesome-Alguma-Coisa" que podem ser enconta
 - [Traduções](#Traduções)
 
 # YouTube
-- [Ideias Radicais por Raphael Lima](https://www.youtube.com/channel/UC-NwgkrLPYmzM-xoLr2GX-Q)
+- ### [Ideias Radicais por Raphael Lima](https://www.youtube.com/channel/UC-NwgkrLPYmzM-xoLr2GX-Q)
+
 O Ideias Radicais é o maior canal brasileiro (provavelmente da língua portuguesa) que tem como tema principal o libertarianismo e o anarcocapitalismo. Seu rosto é o ex-mágico Raphael Lima (também conhecido como Hide), porém também conta com a participação nos bastidores de Luiza Arsênio, Luan Sperandio...
