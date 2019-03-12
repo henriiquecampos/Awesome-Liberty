@@ -28,6 +28,7 @@ Todo esse conteúdo está sob domínio público pois propriedade intelectual nã
 
 # Conteúdo
 
+<!--
 - Iniciante
 	- [Canais no Youtube(Geral)](#YouTube)
 - Intermediário
@@ -35,7 +36,7 @@ Todo esse conteúdo está sob domínio público pois propriedade intelectual nã
 	- [Ética](#Ética)
 	- [Economia](#Economia)
 - [Traduções](#Traduções)
-
+-->
 ## YouTube
 
 > ### [Ideias Radicais por Raphael Lima](https://www.youtube.com/channel/UC-NwgkrLPYmzM-xoLr2GX-Q)
