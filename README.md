@@ -53,3 +53,11 @@ Todo esse conteúdo está sob domínio público pois propriedade intelectual nã
 > ### [Ancap.su](https://www.youtube.com/channel/UCSyG9ph5BJSmPRyzc_eGC4g)
 > 
 > Ancap.su é um canal de divulgação de conhecimento libertário, quase um FAQ ancap, as principais dúvidas dos iniciantes podem ser tiradas de forma muito didática através desse canal. Até para quem já está a mais tempo, vídeos como ["O que é a ética argumentativa?"](https://www.youtube.com/watch?v=u6jxGd9Up9Y) ou ["Quanto custa uma criança?"](https://www.youtube.com/watch?v=hmr5ontdKAU) são excelentes opções. Além, é claro, de recentemente ter começado a fazer vídeos com um ton mais humorístico, ["Argumentum Ad-tetra-suécia"](https://www.youtube.com/watch?v=e26r4xqJp8g) e ["Argumentum ad-valet-scriptarum"](https://www.youtube.com/watch?v=i-AFpI8Ve5E).
+
+> ### [Ancapinaremos por Sandro Sanfelice](https://www.youtube.com/channel/UCQZxQh19-PsMWDRChKh1QGw)
+>
+> Ancapinaremos: Vamos difundir a liberdade! Você está cansado de discussões políticas agressivas intermináveis com pessoas que não estão com a mente aberta? Você está esgotado de tanto dar murro em ponta de faca ao tentar defender alguns pontos de vista? Você tem ideias muito loucas que o pessoal da sua timeline nunca iria entender? Você acredita que o Estado brasileiro é extremamente ineficiente e sufoca sua população? Você acha que imposto é roubo e sonegar é legítima defesa? Então agora você tem um lugarzinho na internet para você se sentir em casa!
+
+> ### [O Agorista](https://www.youtube.com/channel/UCY0v0I-00pjwdN5bzOtZLkA)
+>
+> Ele define a si próprio como " Um anarquista individualista - adepto à prática e estudo do Agorismo - disseminando doses cavalares de liberdade pela internet", o Agorista nos dá sempre uma excelente noção sobre o anacocapitalismo raiz. Seus vídeos têm teor mais prático com boas doses de humor e tem até algumas gameplays. Alguns vídeos até são mais profundos e preenchidos de teoria, como a leitura do livro "Teoria de Classe Agorista" de Wally Conger.
