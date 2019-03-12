@@ -73,3 +73,7 @@ Todo esse conteúdo está sob domínio público pois propriedade intelectual nã
 > ### [Instituto Rothbard](http://rothbardbrasil.com)
 >
 > Aqui se encontram artigos formais, com refutações e deduções típicas do universo acadêmico. O Instituto Rothbard é uma das maiores bibliotecas de material libertário em português disponível na internet, com animações, livros, entrevistas, etc. A leitura da maioria dos artigos pode ser feita tendo em mente apenas os conceitos básicos de economia e libertarianismo.
+
+> ### [Cypherpunks](https://cypherpunks.com.br/)
+>
+> O Cypherpunks surgiu como iniciativa do Avelino Morganti para propagar os ideais da [filosofia criptoanarquista](https://youtu.be/Ch8Xp1BgR48) no Brasil. O site foca principalmente em trazer material para o português através do seu [repositório de traduções aqui no GitHub](https://github.com/cypherpunksbr/cypherpunks.com.br). Para quem gosta de tecnologia, é um prato cheio sem ser necessário conhecimento técnico. Não importa se você é de TI, advogado ou padeiro, os artigos cypherpunks também são para você. Destaque para a excelente tradução da carta do Ross Ulbricht ["Feliz Aniversário, Bitcoin!"](https://cypherpunks.com.br/feliz-aniversario-bitcoin/), um lindo texto.
