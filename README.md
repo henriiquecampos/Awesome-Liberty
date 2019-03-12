@@ -62,3 +62,14 @@ Todo esse conteúdo está sob domínio público pois propriedade intelectual nã
 > ### [O Agorista](https://www.youtube.com/channel/UCY0v0I-00pjwdN5bzOtZLkA)
 >
 > Ele define a si próprio como " Um anarquista individualista - adepto à prática e estudo do Agorismo - disseminando doses cavalares de liberdade pela internet", o Agorista nos dá sempre uma excelente noção sobre o anacocapitalismo raiz. Seus vídeos têm teor mais prático com boas doses de humor e tem até algumas gameplays. Alguns vídeos até são mais profundos e preenchidos de teoria, como a leitura do livro "Teoria de Classe Agorista" de Wally Conger.
+
+
+## Sites/Blogs
+
+> ### [Foda-se o estado](https://foda-seoestado.com/)
+>
+> O título agressivo é uma bela antítese para um site que segue o Princípio de Não-Agressão (o famoso PNA). Os artigos abordam economia, criptomoedas, direito, ética e agorismo com uma linguagem intermediária, um meio termo entre o formal e o informal. Além da vasta biblioteca de artigos próprios, também se pode encontrar livros para download e uma àrea só com recomendação de livros.
+
+> ### [Instituto Rothbard](http://rothbardbrasil.com)
+>
+> Aqui se encontram artigos formais, com refutações e deduções típicas do universo acadêmico. O Instituto Rothbard é uma das maiores bibliotecas de material libertário em português disponível na internet, com animações, livros, entrevistas, etc. A leitura da maioria dos artigos pode ser feita tendo em mente apenas os conceitos básicos de economia e libertarianismo.
