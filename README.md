@@ -82,14 +82,25 @@ Todo esse conteúdo está sob domínio público pois propriedade intelectual nã
 >
 > O Instituto Ludwig von Mises - Brasil ("IMB") é uma associação voltada à produção e à disseminação de estudos econômicos e de ciências sociais que promovam os princípios de livre mercado e de uma sociedade livre. No IMB é possível encontrar quase todo o material intelectual que você vai precisar durante sua jornada em busca da liberdade, em destaque para seu excelente podcast!
 
-> ### [Cypherpunks](https://cypherpunks.com.br/)
->
-> O Cypherpunks surgiu como iniciativa do Avelino Morganti para propagar os ideais da [filosofia criptoanarquista](https://youtu.be/Ch8Xp1BgR48) no Brasil. O site foca principalmente em trazer material para o português através do seu [repositório de traduções aqui no GitHub](https://github.com/cypherpunksbr/cypherpunks.com.br). Para quem gosta de tecnologia, é um prato cheio sem ser necessário conhecimento técnico. Não importa se você é de TI, advogado ou padeiro, os artigos cypherpunks também são para você. Destaque para a excelente tradução da carta do Ross Ulbricht ["Feliz Aniversário, Bitcoin!"](https://cypherpunks.com.br/feliz-aniversario-bitcoin/), um lindo texto.
-
 > ### [Sociedade Alternativa Libertária](https://sociedadelibertaria.com/)
 >
 > A Sociedade Alternativa Libertária, surgiu quando jovens entenderam que se era necessário explicar a todos, de maneira clara, direta e sem suavizar com meias palavras, o que de fato o Libertarianismo representa e defende. Viemos espalhar as ideias que hoje, mais que nunca são necessárias para se entender qual é o posicionamento da Liberdade perante um mundo cada vez mais fragmentado politicamente. Quer saber mais sobre a gente? Dá só uma olhadinha no que escrevemos pra você. Prometemos uma leiturinha fácil e curta pra não te deixar cansado do conhecimento. 
 
 > ### [Instituto Hans-Hermann Hoppe Brasil](https://h3sotospeak.com/about)
 >
-> Temos como objetivo principal divulgar as idéias austro-libertárias. Debater diferentes opiniões, aumentar e integrar os diversos movimentos libertários e atuar constantemente no Ciber-Libertarianismo! Nosso servidor está hospedado no oceano, não precisamos seguir regra de caralho de país nenhum. Em breve também poderá acessar nosso forum na deepweb através da rede TOR.
+> Temos como objetivo principal divulgar as idéias austro-libertárias. Debater diferentes opiniões, aumentar e integrar os diversos movimentos libertários e atuar constantemente no Ciber-Libertarianismo! Nosso servidor está hospedado no oceano, não precisamos seguir regra de caralho de país nenhum. Em breve também poderá acessar nosso forum na deepweb através da rede Tor.
+
+## Criptoanarquia, Segurança e Privacidade
+
+> ### [Surveillance Self-Defense](https://ssd.eff.org/pt-br)
+>
+> Nós somos a Electronic Frontier Foundation, uma organização sem fins lucrativos que há quase 30 anos trabalha para proteger a privacidade. O Guia de Autodefesa contra Vigilância é nossa ferramenta com dicas de especialistas para proteger você e amigos/as da espionagem virtual. Leia o guia básico para entender como a vigilância virtual funciona. Mergulhe nos guias de ferramentas e receba instruções sobre como instalar nossa seleção de aplicativos seguros. Se quiser informações mais detalhadas, visite nossa seção de informações adicionais. Caso queira ver simulação guiada, procure nossa lista de cenários de risco comuns.
+
+
+> ### [Cypherpunks](https://cypherpunks.com.br/)
+>
+> O Cypherpunks surgiu como iniciativa do Avelino Morganti para propagar os ideais da [filosofia criptoanarquista](https://youtu.be/Ch8Xp1BgR48) no Brasil. O site foca principalmente em trazer material para o português através do seu [repositório de traduções aqui no GitHub](https://github.com/cypherpunksbr/cypherpunks.com.br). Para quem gosta de tecnologia, é um prato cheio sem ser necessário conhecimento técnico. Não importa se você é de TI, advogado ou padeiro, os artigos cypherpunks também são para você. Destaque para a excelente tradução da carta do Ross Ulbricht ["Feliz Aniversário, Bitcoin!"](https://cypherpunks.com.br/feliz-aniversario-bitcoin/), um lindo texto.
+
+> ### [Security in a Box](https://securityinabox.org/pt/)
+> 
+> Security in-a-Box é um guia de segurança digital para ativistas e pessoas defensoras dos direitos humanos no mundo inteiro. Se você é iniciante em segurança digital, o Guia de Táticas cobrirá princípios básicos, incluindo conselhos de como usar redes sociais e celulares de frma mais segura. O Guia de Ferramentas oferece instruções passo-a-passo para ajudar na instalação e no uso dos programas e serviços essenciais para a segurança digital. O Guia da Comunidade é focado em grupos específicos de pessoas - algumas vezes de regiões específicas - que enfrentam ameaças graves. Ele inclue conselhos sobre ferramentas e táticas relevantes para as necessidades particulares desses grupos. O Security-in-a-Box é desenvolvido conjuntamente por Front Line Defenders e Tactical Technology Collective, junto a uma rede internacional de ativistas, facilitadores e especialistas em segurança digital.
