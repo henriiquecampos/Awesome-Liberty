@@ -81,3 +81,11 @@ Todo esse conteúdo está sob domínio público pois propriedade intelectual nã
 > ### [Cypherpunks](https://cypherpunks.com.br/)
 >
 > O Cypherpunks surgiu como iniciativa do Avelino Morganti para propagar os ideais da [filosofia criptoanarquista](https://youtu.be/Ch8Xp1BgR48) no Brasil. O site foca principalmente em trazer material para o português através do seu [repositório de traduções aqui no GitHub](https://github.com/cypherpunksbr/cypherpunks.com.br). Para quem gosta de tecnologia, é um prato cheio sem ser necessário conhecimento técnico. Não importa se você é de TI, advogado ou padeiro, os artigos cypherpunks também são para você. Destaque para a excelente tradução da carta do Ross Ulbricht ["Feliz Aniversário, Bitcoin!"](https://cypherpunks.com.br/feliz-aniversario-bitcoin/), um lindo texto.
+
+> ### [Sociedade Alternativa Libertária](https://sociedadelibertaria.com/)
+>
+> A Sociedade Alternativa Libertária, surgiu quando jovens entenderam que se era necessário explicar a todos, de maneira clara, direta e sem suavizar com meias palavras, o que de fato o Libertarianismo representa e defende. Viemos espalhar as ideias que hoje, mais que nunca são necessárias para se entender qual é o posicionamento da Liberdade perante um mundo cada vez mais fragmentado politicamente. Quer saber mais sobre a gente? Dá só uma olhadinha no que escrevemos pra você. Prometemos uma leiturinha fácil e curta pra não te deixar cansado do conhecimento. 
+
+> ### [Instituto Hans-Hermann Hoppe Brasil](https://h3sotospeak.com/about)
+>
+> Temos como objetivo principal divulgar as idéias austro-libertárias. Debater diferentes opiniões, aumentar e integrar os diversos movimentos libertários e atuar constantemente no Ciber-Libertarianismo! Nosso servidor está hospedado no oceano, não precisamos seguir regra de caralho de país nenhum. Em breve também poderá acessar nosso forum na deepweb através da rede TOR.
