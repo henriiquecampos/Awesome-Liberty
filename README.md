@@ -3,7 +3,7 @@
 	<h1>Awesome-Liberty</h1>
 	<h5>Essa é uma coleção de recurso para criptoanarquistas, agoristas e outros anarcocapitalistas. Agradeço qualquer contribuição!</h5>
 	<br>
-	<a href="Leitura/o-que-e-anarcocaptalismo.md">O que é anarcocaptalismo?</a>&nbsp;&nbsp;&nbsp;
+	<a href="Leitura/o-que-e-anarcocapitalismo.md">O que é anarcocaptalismo?</a>&nbsp;&nbsp;&nbsp;
 	<a href="contributing.md">Como contribuir</a>&nbsp;&nbsp;&nbsp;
 	<a href="Leitura/por-onde-comecar-a-estudar-libertarianismo.md">Por onde começar a estudar libertarianismo?</a>&nbsp;&nbsp;&nbsp;
 	<br>
@@ -41,7 +41,7 @@ Todo esse conteúdo está sob domínio público pois propriedade intelectual nã
 
 > ### [Ideias Radicais por Raphael Lima](https://www.youtube.com/channel/UC-NwgkrLPYmzM-xoLr2GX-Q)
 >
-> O Ideias Radicais é o maior canal brasileiro (provavelmente da língua portuguesa) que tem como tema principal o libertarianismo e o anarcocapitalismo. Seu rosto é o ex-mágico Raphael Lima (também conhecido como Hide), que tebalha pela liberdade em tempo integral. No Ideias Radicais é possível encontrar tópicos agoristas (mais práticos), comentários políticos e explicações muito didáticas sobre conceitos complicados.
+> O Ideias Radicais é o maior canal brasileiro (provavelmente da língua portuguesa) que tem como tema principal o libertarianismo e o anarcocapitalismo. Seu rosto é o ex-mágico Raphael Lima (também conhecido como Hide), que trabalha pela liberdade em tempo integral. No Ideias Radicais é possível encontrar tópicos agoristas (mais práticos), comentários políticos e explicações muito didáticas sobre conceitos complicados.
 
 > ### [Iniciativa Libertária por Edilson Lauro](https://www.youtube.com/user/edilsonlauro2)
 >
@@ -49,11 +49,11 @@ Todo esse conteúdo está sob domínio público pois propriedade intelectual nã
 
 > ### [Alexandre Porto](https://www.youtube.com/user/CanalTal)
 >
-> Esse canal é mais voltado à filosofia e epstemologia (_se não sabe o que é isso, tudo bem, eu também não sei_), com refutações e deduções mais formais. Muito bom para quem já foi introduzido na Ética Libertária e procura entender melhor a teoria. Porto também faz muitos vídeos respondendo a críticas ao anarcocapitalismo e comentando acontecimentos do momento.
+> Esse canal é mais voltado à filosofia e epistemologia (_se não sabe o que é isso, tudo bem, eu também não sei_), com refutações e deduções mais formais. Muito bom para quem já foi introduzido na Ética Libertária e procura entender melhor a teoria. Porto também faz muitos vídeos respondendo a críticas ao anarcocapitalismo e comentando acontecimentos do momento.
 
 > ### [Ancap.su](https://www.youtube.com/channel/UCSyG9ph5BJSmPRyzc_eGC4g)
 > 
-> Ancap.su é um canal de divulgação de conhecimento libertário, quase um FAQ ancap, as principais dúvidas dos iniciantes podem ser tiradas de forma muito didática através desse canal. Até para quem já está a mais tempo, vídeos como ["O que é a ética argumentativa?"](https://www.youtube.com/watch?v=u6jxGd9Up9Y) ou ["Quanto custa uma criança?"](https://www.youtube.com/watch?v=hmr5ontdKAU) são excelentes opções. Além, é claro, de recentemente ter começado a fazer vídeos com um ton mais humorístico, ["Argumentum Ad-tetra-suécia"](https://www.youtube.com/watch?v=e26r4xqJp8g) e ["Argumentum ad-valet-scriptarum"](https://www.youtube.com/watch?v=i-AFpI8Ve5E).
+> Ancap.su é um canal de divulgação de conhecimento libertário, quase um FAQ ancap, as principais dúvidas dos iniciantes podem ser tiradas de forma muito didática através desse canal. Até para quem já está a mais tempo, vídeos como ["O que é a ética argumentativa?"](https://www.youtube.com/watch?v=u6jxGd9Up9Y) ou ["Quanto custa uma criança?"](https://www.youtube.com/watch?v=hmr5ontdKAU) são excelentes opções. Além, é claro, de recentemente ter começado a fazer vídeos com um tom mais humorístico, ["Argumentum Ad-tetra-suécia"](https://www.youtube.com/watch?v=e26r4xqJp8g) e ["Argumentum ad-valet-scriptarum"](https://www.youtube.com/watch?v=i-AFpI8Ve5E).
 
 > ### [Fernando Ulrich](https://www.youtube.com/channel/UCLJkh3QjHsLtK0LZFd28oGg)
 >
@@ -84,11 +84,11 @@ Todo esse conteúdo está sob domínio público pois propriedade intelectual nã
 
 > ### [Sociedade Alternativa Libertária](https://sociedadelibertaria.com/)
 >
-> A Sociedade Alternativa Libertária, surgiu quando jovens entenderam que se era necessário explicar a todos, de maneira clara, direta e sem suavizar com meias palavras, o que de fato o Libertarianismo representa e defende. Viemos espalhar as ideias que hoje, mais que nunca são necessárias para se entender qual é o posicionamento da Liberdade perante um mundo cada vez mais fragmentado politicamente. Quer saber mais sobre a gente? Dá só uma olhadinha no que escrevemos pra você. Prometemos uma leiturinha fácil e curta pra não te deixar cansado do conhecimento. 
+> A Sociedade Alternativa Libertária, surgiu quando jovens entenderam que se era necessário explicar a todos, de maneira clara, direta e sem suavizar com meias palavras, o que de fato o Libertarianismo representa e defende. Viemos espalhar as ideias que hoje, mais que nunca são necessárias para se entender qual é o posicionamento da Liberdade perante um mundo cada vez mais fragmentado politicamente. Quer saber mais sobre a gente? Dá só uma olhadinha no que escrevemos pra você. Prometemos uma leitura fácil e curta pra não te deixar cansado do conhecimento. 
 
 > ### [Instituto Hans-Hermann Hoppe Brasil](https://h3sotospeak.com/about)
 >
-> Temos como objetivo principal divulgar as idéias austro-libertárias. Debater diferentes opiniões, aumentar e integrar os diversos movimentos libertários e atuar constantemente no Ciber-Libertarianismo! Nosso servidor está hospedado no oceano, não precisamos seguir regra de caralho de país nenhum. Em breve também poderá acessar nosso forum na deepweb através da rede Tor.
+> Temos como objetivo principal divulgar as ideias austro-libertárias. Debater diferentes opiniões, aumentar e integrar os diversos movimentos libertários e atuar constantemente no Ciber-Libertarianismo! Nosso servidor está hospedado no oceano, não precisamos seguir regra de caralho de país nenhum. Em breve também poderá acessar nosso fórum na deepweb através da rede Tor.
 
 ## Criptoanarquia, Segurança e Privacidade
 
@@ -103,4 +103,4 @@ Todo esse conteúdo está sob domínio público pois propriedade intelectual nã
 
 > ### [Security in a Box](https://securityinabox.org/pt/)
 > 
-> Security in-a-Box é um guia de segurança digital para ativistas e pessoas defensoras dos direitos humanos no mundo inteiro. Se você é iniciante em segurança digital, o Guia de Táticas cobrirá princípios básicos, incluindo conselhos de como usar redes sociais e celulares de frma mais segura. O Guia de Ferramentas oferece instruções passo-a-passo para ajudar na instalação e no uso dos programas e serviços essenciais para a segurança digital. O Guia da Comunidade é focado em grupos específicos de pessoas - algumas vezes de regiões específicas - que enfrentam ameaças graves. Ele inclue conselhos sobre ferramentas e táticas relevantes para as necessidades particulares desses grupos. O Security-in-a-Box é desenvolvido conjuntamente por Front Line Defenders e Tactical Technology Collective, junto a uma rede internacional de ativistas, facilitadores e especialistas em segurança digital.
+> Security in-a-Box é um guia de segurança digital para ativistas e pessoas defensoras dos direitos humanos no mundo inteiro. Se você é iniciante em segurança digital, o Guia de Táticas cobrirá princípios básicos, incluindo conselhos de como usar redes sociais e celulares de forma mais segura. O Guia de Ferramentas oferece instruções passo a passo para ajudar na instalação e no uso dos programas e serviços essenciais para a segurança digital. O Guia da Comunidade é focado em grupos específicos de pessoas – algumas vezes de regiões específicas – que enfrentam ameaças graves. Ele inclui conselhos sobre ferramentas e táticas relevantes para as necessidades particulares desses grupos. O Security-in-a-Box é desenvolvido conjuntamente por Front Line Defenders e Tactical Technology Collective, junto a uma rede internacional de ativistas, facilitadores e especialistas em segurança digital.
