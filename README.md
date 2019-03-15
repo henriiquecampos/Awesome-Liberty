@@ -1,6 +1,9 @@
 <div align="center">
+	<br>
 	<h5>[!] Esse repositório está sendo atualizado <strong>diariamente<strong>[!]</h5>
+	</br>
 </div>
+
 <div align="center">
 	<img width="500" height="350" src="Media/dont-tread-on-me.png" alt="Awesome">
 	<h1>Awesome-Liberty</h1>
