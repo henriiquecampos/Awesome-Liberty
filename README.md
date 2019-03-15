@@ -1,4 +1,4 @@
-<div lign="center">
+<div align="center">
 	<h3>[!] Esse repositório está sendo atualizado <strong>diariamente<strong> </h3>
 </div>
 <div align="center">
