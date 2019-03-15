@@ -1,3 +1,5 @@
+> ## [!] Esse repositório está sendo atualizado **diariamente**
+
 <div align="center">
 	<img width="500" height="350" src="Media/dont-tread-on-me.png" alt="Awesome">
 	<h1>Awesome-Liberty</h1>
