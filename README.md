@@ -1,5 +1,5 @@
 <div align="center">
-	<h3>[!] Esse repositório está sendo atualizado <strong>diariamente<strong> </h3>
+	<h5>[!] Esse repositório está sendo atualizado <strong>diariamente<strong>[!]</h5>
 </div>
 <div align="center">
 	<img width="500" height="350" src="Media/dont-tread-on-me.png" alt="Awesome">
