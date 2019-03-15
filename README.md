@@ -1,7 +1,7 @@
 <div align="center">
-	<br>
 	<h5>[!] Esse repositório está sendo atualizado <strong>diariamente<strong>[!]</h5>
-	</br>
+	<br>
+	<br>
 </div>
 
 <div align="center">
