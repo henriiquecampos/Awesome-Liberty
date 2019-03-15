@@ -1,5 +1,5 @@
 <div align="center">
-	<h5>[!] Esse repositório está sendo atualizado <strong>diariamente<strong>[!]</h5>
+	<h5><font color="gray">[!] Esse repositório está sendo atualizado <strong>diariamente<strong>[!]</font></h5>
 	<br>
 	<br>
 </div>
