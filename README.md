@@ -118,3 +118,14 @@ Todo esse conteúdo está sob domínio público pois propriedade intelectual nã
 > ### [Roadsec](https://www.youtube.com/channel/UCxHzA-Z97sjfK3OISjkbMCQ)
 >
 > A Roadsec é o maior festival de hacking da América Latina! No canal deles do YouTube, eles disponibilizam palestras dos mais diversos assunto (tanto para leigos, quanto para veteranos) feito pelos profissionais de primeira que tiveram a honra de participar do evento. O Roadsec é um evento itinerante que percorre diversos estados brasileiros levando uma mistura única de palestras, atividades e campeonatos, integrando estudantes, profissionais e comunidades em torno da celebração da cultura hacker em todas as suas vertentes: segurança, desenvolvimento, makers e ativistas. 
+
+## Criptologia - Tecnicalidades para noobs e experts
+
+> ### [Thiago Salem](https://www.youtube.com/channel/UC4H35F5f2c5cyR-pbZlt12Q)
+>
+> Salem, aleḿ de um ótimo professor de criptografia, também é criador e admin do fórum [TriboCrypto](https://tribocrypto.com/), que tem como tema principal a criptografia e criptoanarquia. O conteúdo de destaque do canal são vídeos resolvendo enigmas e desafios pela internet (muito parecidos com a Cicada3301), explicação práticas e tutoriais sobre conceitos complexos de criptografia, recomendações para quem se interessa pelo tema e algumas lives conversando com os inscritos.
+
+> ### [Bruno Garcia](https://www.youtube.com/channel/UCWqalkoDtEujnbtAX8IyILA)
+>
+> Quer aprender a criar sua própria criptomoeda do zero? Veio ao lugar certo! No seu canal, Bruno encara o projeto do Bitcoin e da Blockchain do ponto de vista de um desenvolvedor. Claro que é necessário já estar introduzido à programação (básico de Python) e ao ecosistema das criptomoedas para não boiar durante os vídeos. Mesmo assim, é fascinante ver a programação das criptomoedas e suas diversas implementações. Destaque para o vídeo "[A origem da criptografia assimétrica e sua relação com as criptomoedas](https://www.youtube.com/watch?v=DcEad0992lo)".
+
