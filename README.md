@@ -114,3 +114,7 @@ Todo esse conteúdo está sob domínio público pois propriedade intelectual nã
 > ### [Crypto Anarchy Wiki](https://cryptoanarchy.wiki/)
 > 
 > Essa biblioteca em inglês é um excelente ponto de partida para os libertários que não entendem o conceito de criptoanarquia ou simplesmente para os indivíduos que desejam usar a tecnologia para obter mais liberdade. A esse último público, fica o aviso: o meio cypherpunk te leva a drogas mais pesadas e, se você se permitir, em poucas semanas vai estar gritando "Imposto é roubo!". Voltando ao site, ele disponibiliza a bibliografia completa de todos os cypherpunks originais (como Satoshi Nakamoto, David Friedman e Julian Assange) e os arquivos da lista de emails na íntegra. Diversos links e referências tanto históricas quanto técnicas estão dispoíveis para os nerds no Crypto Anarchy Wiki.
+
+> ### [Roadsec](https://www.youtube.com/channel/UCxHzA-Z97sjfK3OISjkbMCQ)
+>
+> A Roadsec é o maior festival de hacking da América Latina! No canal deles do YouTube, eles disponibilizam palestras dos mais diversos assunto (tanto para leigos, quanto para veteranos) feito pelos profissionais de primeira que tiveram a honra de participar do evento. O Roadsec é um evento itinerante que percorre diversos estados brasileiros levando uma mistura única de palestras, atividades e campeonatos, integrando estudantes, profissionais e comunidades em torno da celebração da cultura hacker em todas as suas vertentes: segurança, desenvolvimento, makers e ativistas. 
