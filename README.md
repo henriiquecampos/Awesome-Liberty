@@ -1,10 +1,4 @@
 <div align="center">
-	<h5><font color="gray">[!] Esse repositório está sendo atualizado <strong>diariamente<strong>[!]</font></h5>
-	<br>
-	<br>
-</div>
-
-<div align="center">
 	<img width="500" height="350" src="Media/dont-tread-on-me.png" alt="Awesome">
 	<h1>Awesome-Liberty</h1>
 	<h5>Essa é uma coleção de recurso para criptoanarquistas, agoristas e outros anarcocapitalistas. Agradeço qualquer contribuição!</h5>
