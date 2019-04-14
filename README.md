@@ -1,3 +1,5 @@
+# Awesome-Liberty
+
 <div align="center">
 	<img width="500" height="350" src="Media/dont-tread-on-me.png" alt="Awesome">
 	<h1>Awesome-Liberty</h1>
@@ -123,3 +125,47 @@ Todo esse conteúdo está sob domínio público pois propriedade intelectual nã
 >
 > Quer aprender a criar sua própria criptomoeda do zero? Veio ao lugar certo! No seu canal, Bruno encara o projeto do Bitcoin e da Blockchain do ponto de vista de um desenvolvedor. Claro que é necessário já estar introduzido à programação (básico de Python) e ao ecosistema das criptomoedas para não boiar durante os vídeos. Mesmo assim, é fascinante ver a programação das criptomoedas e suas diversas implementações. Destaque para o vídeo "[A origem da criptografia assimétrica e sua relação com as criptomoedas](https://www.youtube.com/watch?v=DcEad0992lo)".
 
+## Ferramentas Financeiras
+
+> ### [Bisq](https://bisq.network/)
+>
+> Bisq é um software de código aberto, peer-to-peer que lhe permite comprar e vender criptomoedas em troca de moedas fiduciárias. Não é necessário se cadastrar. Tem uma excelente interface de usuário para os noobs e é altamente indicada para os vendedores P2P por possuir um sistema de resolução de disputas muito eficaz.
+> 
+> [Tutorial em Português](https://www.youtube.com/watch?v=2y6P1Jl1-aM).
+> [Tutorial oficial (Inglês)](https://www.youtube.com/watch?v=mOSYPrgLKWw&list=PLFH5SztL5cYOLdYJj3nQ6-DekbjMTVhCS)
+
+> ### [OpenBazaar](https://openbazaar.org/)
+>
+> O OpenBazaar é uma gigantesca loja virtual que foca em garantir privacidade para compradores e vendedores através de diversas tecnologias como as cryptomoedas, o Tor e a filosofia do software livre. Lá é possível comprar os mais diversos produtos ao redor do mundo. Diferente dos mercados da rede Tor, lá é bem difícil encontrar bens "ilegais", como drogas e armas. Assim como a Bisq, o OpenBazaar possui um sistema de disputas eficiente capaz de proteger compradores e vendedores.
+>
+> Recomendação: compre livros livertários com bitcoin no OpenBazaar [Bazaar dos Livros](https://openbazaar.com/store/QmbbgUDz8XaHeTt4opsK6TrVv2JMPsm8g66RUeTBQ8EFa1)
+
+## Ferramentas para Internet
+
+> ### [Tor Project](https://www.torproject.org/)
+> 
+> Tor (O roteador cebola, do inglês “The Onion Router”) é um projeto livre e de código aberto que proporciona o anonimato pessoal - ou o quão perto der - ao navegar na Internet e em atividades online, protegendo contra a censura e principalmente a privacidade pessoal. Para entender melhor, está recomendado o excelente artigo do Heitor Gouvea ["Entendendo de uma vez por todas o que é a Rede Tor e como ela funciona!"](https://heitorgouvea.me/stories/2018/11/28/entendendo-a-rede-tor/)
+
+> ### [i2P](https://geti2p.net/)
+> 
+> A I2P é uma rede anônima, que disponibiliza uma camada simples sobre a qual se faz possível a comunicação entre aplicações, por meio de troca de mensagens, de maneira anônima e segura. A rede é por si só estritamente baseada em mensagens (a la IP), mas há disponível uma biblioteca que permite uma confiável comunicação por streaming uma camada acima (a la TCP). Toda a comunicação é criptografada de ponta-a-ponta (há, no total, quatro camadas de criptografia usadas ao se enviar uma mensagem), e mesmo os extremos ("destinos") são identificadores criptográficos (essencialmente um par de chaves públicas).
+> 
+> [Tutorial para noobs](http://www.fabricadenoobs.com.br/deep-web/redes-documentadas/i2p-2/)
+
+> ### [Whonix](https://www.whonix.org/)
+>
+> O Whonix é um sistema operacional de desktop projetado para segurança e privacidade avançadas. O Whonix atenua a ameaça de vetores de ataque comuns enquanto mantém a usabilidade. O anonimato on-line é realizado por meio do uso seguro, automático e amplo em toda a área de trabalho da rede Tor. Uma base Debian altamente reconfigurada é executada dentro de várias máquinas virtuais, fornecendo uma camada substancial de proteção contra malware e vazamentos de endereços IP. Aplicativos comumente usados são pré-instalados e pré-configurados com segurança para uso imediato. O usuário não fica comprometido com a instalação de aplicativos adicionais ou a personalização da área de trabalho. O Whonix está em desenvolvimento ativo e é o único sistema operacional projetado para ser executado dentro de uma VM e emparelhado com o Tor.
+
+> ### [Brave Browser](https://brave.com/)
+>
+> Brave é o Google Chrome sem o Google. Um browser baseado no Chromium (versão open source do Chrome) e focado na privacidade. Hoje é meu navegador principal no Android por possuir desempenho, interface e segurança muito bons. O desempenho dele para web chega a ser 8x mais rápido que o Chrome e o Safari por bloquear scripts maliciosos e anúncios. 
+
+> ### [dat:// — a peer-to-peer protocol](https://datproject.org/)
+>
+> O Dat é uma comunidade sem fins lucrativos e um protocolo aberto para a criação de aplicativos do futuro. O Projeto Dat imagina uma rede de bens comuns criada por comunidades globais em protocolos abertos e seguros. Decidimos melhorar o acesso a dados públicos e criamos um novo protocolo ao longo do caminho, leia mais em datprotocol.com. Em nosso trabalho sobre o desenvolvimento do Dat, encontramos uma necessidade insuficiente. O software descentralizado tem o potencial de devolver o controle da informação digital às pessoas. Hoje, a criação de aplicativos peer-to-peer apresenta desafios técnicos e éticos, mas o Dat está mudando isso lentamente.
+>
+> Para incentivar as pessoas a experimentar e inovar com tecnologia descentralizada, pretendemos fazer o software de base de dados Dat para aplicativos peer-to-peer - patrocinado por uma organização sem fins lucrativos voltada para missões. Para concretizar este futuro, pretendemos tornar a Dat boa em apoiar as principais necessidades das aplicações peer-to-peer. Esperamos que, com nosso foco pequeno, mas crítico, possamos criar um forte alicerce para o ecossistema Dat.
+
+> ### [The Guardian Project](https://guardianproject.info/)
+>
+> O Guardian é um projeto muito semelhante ao Tor Project porém diferente da cebola, o Guardian foca em produzir diversos aplicativos para smartphone de modo a torná-los mais seguros.
