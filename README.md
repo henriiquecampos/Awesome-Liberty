@@ -138,6 +138,14 @@ Todo esse conteúdo está sob domínio público pois propriedade intelectual nã
 >
 > Recomendação: compre livros livertários com bitcoin no OpenBazaar [Bazaar dos Livros](https://openbazaar.com/store/QmbbgUDz8XaHeTt4opsK6TrVv2JMPsm8g66RUeTBQ8EFa1)
 
+> ### [Samourai Wallet](https://samouraiwallet.com/)
+>
+> A Samourai Wallet é a carteira de bitcoins mais rica e avançada disponível no Android hoje. Ele foi criado desde o início por ativistas de privacidade para ser extremamente portátil, altamente seguro e liderar o pacote para proteger a privacidade dos usuários de bitcoin.
+
+> ### [Wasabi Wallet](https://www.wasabiwallet.io/)
+> 
+> Wasabi é uma carteira bitcoin open-source, sem custódia e focada na privacidade, que implementa a troca de moedas sem confiança com o anonimato matematicamente comprovado: Chaumian CoinJoin, é o primeiro de seu tipo. No entanto, "anonimato adora companhia", quanto mais usuários houver, melhor será sua privacidade e mais rápidas serão as rodadas CoinJoin. Se você está procurando por segurança operacional de última geração ou se está filosoficamente alinhado com os princípios de liberdade e privacidade, agora é sua hora de contribuir. Abra seu Wasabi e comece a fornecer liquidez para CoinJoins para inicializar o sistema!
+
 ## Ferramentas para Internet
 
 > ### [Tor Project](https://www.torproject.org/)
