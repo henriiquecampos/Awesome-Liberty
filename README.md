@@ -3,7 +3,7 @@
 	<h1>Awesome-Liberty</h1>
 	<h5>Essa é uma coleção de recurso para criptoanarquistas, agoristas e outros anarcocapitalistas. Agradeço qualquer contribuição!</h5>
 	<br>
-	<a href="Leitura/o-que-e-anarcocapitalismo.md">O que é anarcocaptalismo?</a>&nbsp;&nbsp;&nbsp;
+	<a href="https://github.com/Z33DD/Awesome-Liberty/blob/master/Leitura/o-que-e-anarcocaptalismo.md">O que é anarcocaptalismo?</a>&nbsp;&nbsp;&nbsp;
 	<a href="contributing.md">Como contribuir</a>&nbsp;&nbsp;&nbsp;
 	<a href="Leitura/por-onde-comecar-a-estudar-libertarianismo.md">Por onde começar a estudar libertarianismo?</a>&nbsp;&nbsp;&nbsp;
 	<br>
