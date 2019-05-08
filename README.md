@@ -26,6 +26,10 @@ Esse repositório foi inspirado nos "Awesome-Alguma-Coisa" que podem ser enconta
 
 Todo esse conteúdo está sob domínio público pois propriedade intelectual não é legítima. Para saber mais sobre a documentação, veja [The Unlicense](http://unlicense.org).
 
+# Disclaimer!
+
+Nenhuma das empresas e/ou serviços citados(as) aqui financiou e/ou patrocinou de qualquer forma a escrita e publicação desse material. Esse texto foi e está sendo produzido de maneira independente e não há relação alguma com as empresas citadas. Muito menos deva-se considerar que isso é algum tipo de incentivo para ultilizar os serviços, empresas ou tecnologias citadas. Esse texto também não consiste de forma alguma conselho e/ou recomendação de cunho financeiro, fiscal e/ou jurídico, sendo qualquer atitudes e decições a serem tomadas com base nas informações aqui escritas de total responsabilidade de quem executa tais ações.
+
 # Conteúdo
 
 <!--
@@ -152,7 +156,7 @@ Todo esse conteúdo está sob domínio público pois propriedade intelectual nã
 
 > ### [SFM Offshore](https://pt.sfm.com/)
 > 
-> A SFM é uma empresa especializada em diversos serviços financeiros offshore e onshore mas seu principal produto é a abertura de empresas offshore ne exterior, sendo seus preços bem razoáveis dependendo do país que o cliente desejar. Mesmo que não tenha a intenção de contratar seus serviços, o site da empresa ainda se destaca por oferecer excelentes fichas sobre todos os paraísos fiscais atualmente e conter várias outras informações úteis para leigos em contbilidade/direito.
+> A SFM é uma empresa especializada em diversos serviços financeiros offshore e onshore, mas seu principal produto é a abertura de empresas offshore no exterior, sendo seus preços bem razoáveis dependendo do país que o cliente desejar. Mesmo que não tenha a intenção de contratar seus serviços, o site da empresa ainda se destaca por oferecer excelentes fichas sobre todos os paraísos fiscais atualmente e conter várias outras informações úteis para leigos em contbilidade/direito.
 
 ## Ferramentas para Internet
 
