@@ -74,6 +74,10 @@ Todo esse conteúdo está sob domínio público pois propriedade intelectual nã
 >
 > O título agressivo é uma bela antítese para um site que segue o Princípio de Não-Agressão (o famoso PNA). Os artigos abordam economia, criptomoedas, direito, ética e agorismo com uma linguagem intermediária, um meio termo entre o formal e o informal. Além da vasta biblioteca de artigos próprios, também se pode encontrar livros para download e uma àrea só com recomendação de livros.
 
+> ### [Gazeta Libertária](https://gazetalibertaria.news/)
+>
+> A Gazeta provavelmente é o site de notícias libertárias que posta com mais frequência, não sendo raro dois textos ao dia. Os principais temas são ao redor de criptomoedas, economia e sociedade (política, justiça, educação, etc), porém a área de artigos também é muito completa e se dá ao trabalho de explicar e argumentar sobre temas absurdamente complexos para os iniciantes como praxeologia, mercado e questões filosóficas.
+
 > ### [Instituto Rothbard](http://rothbardbrasil.com)
 >
 > Aqui se encontram artigos formais, com refutações e deduções típicas do universo acadêmico. O Instituto Rothbard é uma das maiores bibliotecas de material libertário em português disponível na internet, com animações, livros, entrevistas, etc. A leitura da maioria dos artigos pode ser feita tendo em mente apenas os conceitos básicos de economia e libertarianismo.
