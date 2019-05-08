@@ -150,6 +150,10 @@ Todo esse conteúdo está sob domínio público pois propriedade intelectual nã
 > 
 > Wasabi é uma carteira bitcoin open-source, sem custódia e focada na privacidade, que implementa a troca de moedas sem confiança com o anonimato matematicamente comprovado: Chaumian CoinJoin, é o primeiro de seu tipo. No entanto, "anonimato adora companhia", quanto mais usuários houver, melhor será sua privacidade e mais rápidas serão as rodadas CoinJoin. Se você está procurando por segurança operacional de última geração ou se está filosoficamente alinhado com os princípios de liberdade e privacidade, agora é sua hora de contribuir. Abra seu Wasabi e comece a fornecer liquidez para CoinJoins para inicializar o sistema!
 
+> ### [SFM Offshore](https://pt.sfm.com/)
+> 
+> A SFM é uma empresa especializada em diversos serviços financeiros offshore e onshore mas seu principal produto é a abertura de empresas offshore ne exterior, sendo seus preços bem razoáveis dependendo do país que o cliente desejar. Mesmo que não tenha a intenção de contratar seus serviços, o site da empresa ainda se destaca por oferecer excelentes fichas sobre todos os paraísos fiscais atualmente e conter várias outras informações úteis para leigos em contbilidade/direito.
+
 ## Ferramentas para Internet
 
 > ### [Tor Project](https://www.torproject.org/)
