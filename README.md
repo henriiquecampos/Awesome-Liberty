@@ -28,7 +28,7 @@ Todo esse conteúdo está sob domínio público pois propriedade intelectual nã
 
 # Disclaimer!
 
-Nenhuma das empresas e/ou serviços citados(as) aqui financiou e/ou patrocinou de qualquer forma a escrita e publicação desse material. Esse texto foi e está sendo produzido de maneira independente e não há relação alguma com as empresas citadas. Muito menos deva-se considerar que isso é algum tipo de incentivo para ultilizar os serviços, empresas ou tecnologias citadas. Esse texto também não consiste de forma alguma conselho e/ou recomendação de cunho financeiro, fiscal e/ou jurídico, sendo qualquer atitudes e decições a serem tomadas com base nas informações aqui escritas de total responsabilidade de quem executa tais ações.
+Nenhuma das empresas e/ou serviços citados(as) aqui financiou e/ou patrocinou de qualquer forma a escrita e publicação desse material. Esse texto foi e está sendo produzido de maneira independente e não há relação alguma com as empresas citadas. Muito menos deva-se considerar que isso é algum tipo de incentivo para ultilizar os serviços, empresas ou tecnologias citadas. Esse texto também não consiste de forma alguma conselho e/ou recomendação de cunho financeiro, fiscal e/ou jurídico, sendo qualquer atitudes e decisões a serem tomadas com base nas informações aqui escritas de total responsabilidade de quem executa tais ações.
 
 # Conteúdo
 
